@@ -1,0 +1,58 @@
+---
+layout: post
+title: "Change"
+date: 2015-12-18 09:20
+comments: true
+categories: 
+published: false
+---
+
+Software developers are great at seeing problems in code and coming up with solutions.  The range of these opportunities is wide: from refactoring a God class into smaller, better encapsulated classes, to improving the build scripts, to introducing a better ORM, to moving from SOAP to REST, to choosing a new language.  The list of improvements developers can come up with on any codebase is endless.
+
+As developers the value of these improvements in often unquestioned.  Making the code better, the build faster, using a more appropriate language: all these things enable teams to be more productive, to go faster, to deliver less bugs, make less mistakes or sometimes just make their lives better.
+
+Throughout my career, from a junior programmer, through to senior and technical leadership roles, the single greatest challenge I have faced in making these improvements happen.  In any team I've worked on the list of things we need to improve grows faster than the list of things we improve.  And, even when everybody on the team agrees to make these improvements, for some reason we often find we fail to.  Over the years I have blamed different things for this: delivery pressures, pesky stakeholders not giving us time, lack of will in the team, politics, skills, philosophical disagreements about quality etc. etc.
+
+However, whilst some of these things may be true, the real reason is that the majority of developers don't understand change and have unrealistic expectations about it. When we have unrealistic expectations, we set ourselves up for failure.
+
+# Inertia
+If we are going to talk about change we need to talk about inertia.  In physics any object requires an amount of force/energy to change its existing state (direction, speed etc.), whether that state is in rest or in motion.  Inertia is the resistance to change.
+
+To make change happen you must overcome inertia.  The greater the inertia the greater the required energy to successfully affect change.  This sounds simple.  Yet when we set about implementing change we often forget to account for inertia.  Also, we always often perceive the current state as in rest when actually it is almost always in motion.  For example, if a team wants to move from one testing framework to another, we perceive the current testing framework to be in a state of rest.  In reality the current testing framework is still in continuos motion as people are still using it, still building on top of it and still relying on it.   The amount of effort which goes into the current testing framework can be metaphorically seen as its velocity (i.e. the more effort/change the greater its velocity) and therefore the greater its inertia.
+
+Of course inertia is a metaphor and in the case of development it isn't physical properties which contribute to resistance but other, far more complex properties (or constraints as I prefer to call them).  It is important to understand what these properties/constraints are or we endanger underestimating the inertia and, again, risking failure.
+
+Human:
+
+## Habits and patterns
+People follow patterns.
+
+* When you're learning you are more open to influence as you haven't adopted the pattern
+* We follow patterns. 
+
+## Prior art
+ If there are two of something we follow the thing we know.
+* We rely on prior artYou refer to 'the last time' you did something.  If something changes you look to the last time which you recognise.
+
+* Innovators vs followers
+* Disruption (changing a habit)
+* Status quo bias.
+
+Technical:
+* Consistency
+* Capacity for change
+* Surface area: even a small change can consume a lot of time.
+* Three parts: current direction, new direction, bit in the middle
+
+Solutions:
+Change management.
+Risk vs reward: some changes are high risk.
+Contender challenger: only two things ever.
+Modularise: keeps high-risk change within a boundary
+Fail fast and clean-up
+Be honest about constraints
+Don't do to many things at once
+Prioritise
+Remove all traces: if I can't copy something, then I have to re-think.
+
+
