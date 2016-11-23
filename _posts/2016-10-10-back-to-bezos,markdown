@@ -1,0 +1,26 @@
+---
+layout: post
+title: “Back to Bezos: why we still don’t understand platforms“
+date: 2016-10-10 09:05
+comments: true
+categories: 
+published: false
+---
+
+2016 is the ten year anniversary of Amazon Web Services.  There is no question that Amazon’s innovations in _Infrastructure as a Service_ have revolutionised the way software is delivered.  It also challenged the way we think about the interaction between software and infrastructure and the relationships delivery teams have with both and in one small leap we went from _Infrastructure_ as a first class concept to _Platforms_.
+
+When it launched in March 2006 AWS was nothing more than the Simple Storage Service (S3).  It was over a year before EC2 was launched (August 2007) and for a whole year you lost all your data when the machine went down (which happened a lot) until EBS provided a way of persisting your data across reboots (August 2008).  And yet another year passed before RDS was available with only MySQL (October 2009).  Another year passed before the entire Amazon Retail was running on AWS (November 2010).
+
+By the time of its anniversary AWS contributed 56% to company's profit and was running with over a million active customers a month.  There is 10x more infrastructure on AWS than the combined adoption of the next 14 providers.  Not bad for a bookstore.
+
+What most of us still take for granted is that Amazon was a bookstore, not a player in infrastructure.  Of all the companies that you’d expect to solve this problem - Microsoft, IBM, HP, Intel, VMWare, Sun, hell even perhaps Google - none of them did.  A bookstore did.  Microsoft took four years, Google took only two years with AppEngine but it was a total dud.  None of those big players, who dominated the hardware or virtualisation market a decade ago hold anywhere near the amount of infrastructure than Amazon.  
+
+In fact, I think it took a while for even Amazon to get it.  When I originally played with AWS back in 2007 you had to sign up for an Amazon Retail Web Services account.  Five years later, when we were building Mingle SaaS, even Amazon hadn’t got to grips with AWS because every time we requested an account rep, or help to set up the billing, they kept incorrectly sending us to Amazon Retail.  It took months to get to the right person and once we did achieve it we had dozens of others asking us to share.
+
+Because AWS was not a business platform, it was a technical platform.  Ask a room of C-levels whose company uses AWS and at least half of them will put their hands up.  Ask a room of techies and the proportion will be higher.  Now ask how many use Amazon’s Retail WebServices.  You might get one or two out of a thousand, if you’re lucky.
+
+
+But before even that, it took three years from a paper written by Chris Pinkham and Benjamin Black [“describing a vision for Amazon infrastructure that was completely standardized, completely automated, and relied extensively on web services”[http://blog.b3k.us/2009/01/25/ec2-origins.html].
+
+
+
