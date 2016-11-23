@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+rbenv install 2.3.3 --skip-existing
+rbenv local 2.3.3
+rbenv rehash
+
+gem install bundler
+rbenv rehash
+
+bundle install
