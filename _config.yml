@@ -26,15 +26,21 @@ subscribe_rss: http://feeds.gillardmoss.me.uk/pgm
 
 # Jekyll & Plugins
 permalink: /blog/:year/:month/:day/:title/
+paginate: 100
 
 # Google Analytics
 google_analytics: UA-32203475-1
 
 # Build settings
 markdown: kramdown
-theme: minima
 gems:
   - jekyll-feed
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
+  - less 
+  - node_modules 
+  - Gruntfile.js
+  - package.json
+  - README.md
