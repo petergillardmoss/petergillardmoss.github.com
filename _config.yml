@@ -29,7 +29,7 @@ permalink: /blog/:year/:month/:day/:title/
 paginate: 100
 
 # Google Analytics
-google_analytics: UA-32203475-1
+google_tracking_id: UA-32203475-1
 
 # Build settings
 markdown: kramdown
