@@ -13,10 +13,11 @@ gem "jekyll", "3.3.1"
 gem 'octopress', '~> 3.0.0'
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
+gem 'less'
+
 group :jekyll_plugins do
     gem 'octopress-codeblock'
     gem 'jekyll-sitemap'
     gem 'jekyll-feed'
     gem 'jekyll-paginate'
 end
-
