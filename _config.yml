@@ -33,7 +33,7 @@ google_tracking_id: UA-32203475-1
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
   - jekyll-paginate
 exclude:
