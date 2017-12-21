@@ -14,6 +14,7 @@ gem 'octopress', '~> 3.0.0'
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
 gem 'less'
+gem 'github-pages'
 
 group :jekyll_plugins do
     gem 'octopress-codeblock'
