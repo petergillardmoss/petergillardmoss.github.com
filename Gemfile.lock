@@ -150,8 +150,8 @@ GEM
       jekyll (~> 3.3)
     jekyll-titles-from-headings (0.1.4)
       jekyll (~> 3.3)
-    jekyll-watch (1.5.0)
-      listen (~> 3.0, < 3.1)
+    jekyll-watch (1.5.1)
+      listen (~> 3.0)
     jemoji (0.8.0)
       activesupport (~> 4.0)
       gemoji (~> 3.0)
@@ -173,7 +173,7 @@ GEM
     net-dns (0.8.0)
     nokogiri (1.6.8.1)
       mini_portile2 (~> 2.1.0)
-    octokit (4.7.0)
+    octokit (4.8.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     octopress (3.0.11)
       jekyll (>= 2.0)
@@ -193,7 +193,7 @@ GEM
       jekyll (~> 3.0)
     octopress-hooks (2.6.2)
       jekyll (>= 2.0)
-    pathutil (0.16.0)
+    pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
     rb-fsevent (0.10.2)
@@ -202,7 +202,7 @@ GEM
     redcarpet (3.4.0)
     rouge (1.11.1)
     safe_yaml (1.0.4)
-    sass (3.5.3)
+    sass (3.5.4)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -225,7 +225,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll (= 3.3.1)
+  jekyll
   jekyll-feed
   jekyll-paginate
   jekyll-sitemap

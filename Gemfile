@@ -8,15 +8,15 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.3.1"
+gem "jekyll"
 
 gem 'octopress', '~> 3.0.0'
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
 gem 'less'
-gem 'github-pages'
 
 group :jekyll_plugins do
+    gem 'github-pages'
     gem 'octopress-codeblock'
     gem 'jekyll-sitemap'
     gem 'jekyll-feed'
