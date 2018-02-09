@@ -20,8 +20,6 @@ I'm internally torn: I want to help but at the same time I fear I will let her d
 
 I'm used to feelings of Imposter Syndrome at work.  That feeling you've somehow ended up on a team of evidently-more-qualified-people-than-you, when one of them incomprehensibly asks you for advice, whilst inside you're screaming "why are you asking me? You're the smart one, I'm just a kid!". Then all you can hear is that little devil on your ear whispering  "they're gonna find you out" as you try and string together the answer you hope they'd expect.   Yet now, the exact same feelings are stirring up in a social situation, with a close friend. 
 
-My friend knows what she's doing and she clearly sees me as competent for the task.  Yet the overwhelming significance of the situation means I've lost all objectivity and perspective.  How do I move on from here?
-
 This is the moment I learnt to say "Yes" whilst under the influence of Imposter Syndrome.  I knew I couldn't put my friend off and let her down; I knew I had to step up.  But I couldn't do that on my own.  So I was honest. "Of course I'd take the photo" I told her "and I can see it's important and it should be the best possible photo.  I'm just a bit worried that I'm not the best when it comes to composition".
 
 "You'll be fine Peter, you know what you're doing, just make sure everyone's in the shot".  Seeing I wasn't totally convinced she suggested "why don't we do a test one first?".  So we did, we took a test shot, she checked it "it's great; perfect. Can you just take a few more?"  This time I took the shots with confidence, perhaps even the small feeling of professionalism.
