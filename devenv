@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
+eval "$(rbenv init -)"
 rbenv install 2.3.3 --skip-existing
+rbenv shell 2.3.3
 rbenv local 2.3.3
 rbenv rehash
 
