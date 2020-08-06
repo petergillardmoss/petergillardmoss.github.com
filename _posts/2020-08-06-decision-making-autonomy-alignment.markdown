@@ -5,7 +5,7 @@ date: 2020-08-06 08:24
 comments: true
 categories: 
 published: true
-header-img: 
+header-img: img/wall-picture-frames-081818.jpg
 ---
 
 It seems impossible to talk about leadership without discussing decision making. The two topics are inextricably linked. Making decisions, and making them well, is a core expectation of leaders. Google's [manager research](https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/) identified "Is a Strong Decision Maker" as a common behavior across high-scoring managers.
