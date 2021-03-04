@@ -6,7 +6,7 @@ comments: true
 categories: 
 published: true
 header-img: 
-
+social-img: "img/autonomy-model.png"
 
 
 
