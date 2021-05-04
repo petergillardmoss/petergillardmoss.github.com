@@ -9,6 +9,9 @@
     <meta property="og:image" content="{{ site.url }}/{{ page.social-img }}" />
 {% endif %}
 
+{% if page.description %}
+  <meta property="og:description" content="{{ page.description }}" />
+{% endif %}
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
