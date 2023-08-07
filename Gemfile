@@ -9,11 +9,9 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll"
-
-gem 'octopress', '~> 3.0.0'
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-
 gem 'less'
+
+gem "webrick"
 
 group :jekyll_plugins do
     gem 'github-pages'

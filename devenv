@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
 eval "$(rbenv init -)"
-rbenv install 2.3.3 --skip-existing
-rbenv shell 2.3.3
-rbenv local 2.3.3
+rbenv install 3.2.2 --skip-existing
+rbenv shell 3.2.2
+rbenv local 3.2.2
 rbenv rehash
 
 gem install bundler
