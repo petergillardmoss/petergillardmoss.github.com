@@ -13,7 +13,7 @@ description: "Many software engineers are put off of leadership and performance 
 
 Many software engineers are put off of leadership. And performance management is one reason why. Yet growing other engineers can be one of the most rewarding aspects of leadership. It's critical engineers take on management responsibilities because research shows that [the best leaders and managers are technical experts](https://hbr.org/podcast/2023/07/the-best-leaders-are-also-technical-experts). And their effectiveness in performance management is the main reason:
 
->> If your boss understands the nature of the work, then they can actually help you. They can assess you well, and they can encourage you in the right direction to advance in your career, and that is a very important element for job satisfaction - [Dr Amanda Goodall](https://amandagoodall.com/)
+> If your boss understands the nature of the work, then they can actually help you. They can assess you well, and they can encourage you in the right direction to advance in your career, and that is a very important element for job satisfaction - [Dr Amanda Goodall](https://amandagoodall.com/)
 
 In my role as a technology leader, I avoided the concept of performance management for far too long. The very word _performance_ put me off. "People aren’t engines," I thought "you can’t simply tune them in order to get better outputs".
 
