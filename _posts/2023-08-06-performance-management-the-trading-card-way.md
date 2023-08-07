@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Performance Management the Trading Card Way"
-date: 2023-08-07 15:20
+date: 2023-08-06 15:20
 comments: true
 categories:
 published: true
