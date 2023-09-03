@@ -4,7 +4,7 @@ title: "Beyond metrics: creating cultures of engineering excellence"
 date: 2023-09-03 09:00
 comments: true
 categories:
-published: false
+published: true
 header-img:
 social-img: ""
 description: ""
