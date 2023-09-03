@@ -6,9 +6,8 @@ comments: true
 categories:
 published: true
 header-img:
-social-img: ""
-description: ""
-
+social-img: "img/coding.jpg"
+description: "In a tech driven era the C-Suite is awakening to the strategic role of engineering. But reports like those from McKinsey over emphasis the role of metrics. Discover why leadership and culture are at the heart of true engineering excellence. Let's empower leaders to create cultures built on engineering expertise."
 ---
 
 McKinsey's report "Yes, you can measure developer productivity" has caused a strong reaction in the engineering community. As an experienced engineering manager I have made it my job to read McKinsey's report and the response to it.
