@@ -16,7 +16,7 @@ The report's conclusions are tempting and it comes across reasonable. It talks a
 
 > "Eliminate exhortations for the workforce asking for new levels of productivity" - Deming's 10th principle of management.
 
-McKinsey's report falls instantly into this trap. It misleads the C-Suite into believing that developer productivity can be controlled through the presciption of as set of specific metrics. And it completely misses the truth, that engineering excellence comes from having the right engineering leadership who are empowered to cultivate the right culture.
+McKinsey's report falls instantly into this trap. It misleads the C-Suite into believing that developer productivity can be controlled by prescribing of a set of specific metrics on the engineering function. And it completely misses the truth, that metrics are only a tool. And that true engineering excellence comes from having the right engineering leadership who are empowered to cultivate the right culture.
 
 Why is Developer Productivity suddenly so important?
 ====================================================
