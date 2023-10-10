@@ -6,7 +6,7 @@ comments: true
 categories:
 published: true
 header-img:
-social-img: "img/Descanso_Gardens.jpg"
+social-img: "img/forests-factories-social.png"
 description: "As engineers we've been trained to break problems down into its component parts and optimise them. But this can be harmful when dealing with complex problems. Sometimes we are dealing for forests not factories"
 ---
 
