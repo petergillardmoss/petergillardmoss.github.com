@@ -6,8 +6,7 @@ comments: true
 categories:
 published: true
 header-img:
-social-img: "img/forests-factories-social.png"
-description: "As engineers we've been trained to break problems down into its component parts and optimise them. But this can be harmful when dealing with complex problems. Sometimes we are dealing for forests not factories"
+description: "Everyone's talking about how to deal with low performers. But what if that's not were the real gains are?"
 ---
 
 The inspiration for this post comes from an interview I was doing for an Engineering Manager position. I was asking the typical question “tell me a time when you managed someone you felt wasn’t performing at their best” etc. Generally people answer with the typical playbook response of a low performer who needed extra coaching and guidance. And, for bonus points, give a story of making tough decisions when that didn’t work out… \[enough on that, this is not a post giving interviewing tips\]. 
