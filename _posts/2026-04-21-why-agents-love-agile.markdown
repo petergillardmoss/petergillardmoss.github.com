@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lines and Graphs"
+title: "Why Agents Love Agile (Because They Hate Straight Lines)"
 date: 2026-04-21 06:00
 comments: true
 categories:
@@ -10,7 +10,7 @@ social-img: img/graph_lines_teaser.png
 description: "Agents are helping us rediscover something fundamental about how Agile actually works."
 ---
 
-# Lines and Graphs
+# Why Agents Love Agile (Because They Hate Straight Lines)
 
 *Why agents are forcing us to rethink how software work is shaped.*
 
